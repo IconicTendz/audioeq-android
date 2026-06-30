@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary glassmorphism palette -->
+    <color name="glass_bg_primary">#1AFFFFFF</color>
+    <color name="glass_bg_secondary">#0DFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="glass_highlight">#66FFFFFF</color>
+    <color name="glass_shadow">#0A000000</color>
+
+    <!-- Light Theme -->
+    <color name="bg_light">#F0F2F5</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="primary_light">#6750A4</color>
+    <color name="on_primary_light">#FFFFFFFF</color>
+    <color name="secondary_light">#625B71</color>
+    <color name="tertiary_light">#7D5260</color>
+    <color name="text_primary_light">#1C1B1F</color>
+    <color name="text_secondary_light">#49454F</color>
+
+    <!-- Dark Theme -->
+    <color name="bg_dark">#0F1117</color>
+    <color name="surface_dark">#1A1C23</color>
+    <color name="primary_dark">#D0BCFF</color>
+    <color name="on_primary_dark">#381E72</color>
+    <color name="secondary_dark">#CCC2DC</color>
+    <color name="tertiary_dark">#EFB8C8</color>
+    <color name="text_primary_dark">#E6E1E5</color>
+    <color name="text_secondary_dark">#CAC4D0</color>
+
+    <!-- EQ slider colors -->
+    <color name="eq_band_1">#FF6B6B</color>
+    <color name="eq_band_2">#FF8E53</color>
+    <color name="eq_band_3">#FFC947</color>
+    <color name="eq_band_4">#A8E06C</color>
+    <color name="eq_band_5">#4ECB71</color>
+    <color name="eq_band_6">#3DD5A8</color>
+    <color name="eq_band_7">#36C5D6</color>
+    <color name="eq_band_8">#5B8DEC</color>
+    <color name="eq_band_9">#8B6CE8</color>
+    <color name="eq_band_10">#C57BD8</color>
+    <color name="eq_band_11">#FF7EB3</color>
+    <color name="eq_band_12">#FF9770</color>
+    <color name="eq_band_13">#FFD93D</color>
+    <color name="eq_band_14">#6BCB77</color>
+    <color name="eq_band_15">#4D96FF</color>
+    <color name="eq_band_16">#9B59B6</color>
+    <color name="eq_band_17">#E67E22</color>
+    <color name="eq_band_18">#1ABC9C</color>
+    <color name="eq_band_19">#E74C3C</color>
+    <color name="eq_band_20">#3498DB</color>
+    <color name="eq_band_21">#F39C12</color>
+
+    <!-- Spectrum analyzer colors -->
+    <color name="spectrum_bar">#6750A4</color>
+    <color name="spectrum_line">#D0BCFF</color>
+    <color name="spectrum_waterfall_hot">#FF4444</color>
+    <color name="spectrum_waterfall_warm">#FF8800</color>
+    <color name="spectrum_waterfall_cool">#4488FF</color>
+    <color name="spectrum_waterfall_cold">#4400AA</color>
+    <color name="spectrum_peak">#FFFFFF</color>
+
+    <!-- Status colors -->
+    <color name="success">#4ECB71</color>
+    <color name="warning">#FFC947</color>
+    <color name="error">#FF6B6B</color>
+    <color name="info">#5B8DEC</color>
+</resources>
